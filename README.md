@@ -4,7 +4,7 @@
 
 效果图
 
-![效果图](.\img\效果图.gif)
+![效果图](https://github.com/liuqianpan2008/beidanci/blob/main/img/%E6%95%88%E6%9E%9C%E5%9B%BE.gif)
 
 ### 特性
 
